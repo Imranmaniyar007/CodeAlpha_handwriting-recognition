@@ -1,9 +1,10 @@
-tensorflow==2.13.0
 streamlit
+tensorflow==2.13.0
 numpy
 pillow
-scikit-learn
 matplotlib
+scikit-learn
+
 
 
 altair==6.0.0
