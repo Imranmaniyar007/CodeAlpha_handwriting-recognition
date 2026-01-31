@@ -1,3 +1,11 @@
+tensorflow==2.13.0
+streamlit
+numpy
+pillow
+scikit-learn
+matplotlib
+
+
 altair==6.0.0
 asttokens==3.0.1
 attrs==25.4.0
